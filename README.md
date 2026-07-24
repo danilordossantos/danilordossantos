@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/danilordossantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilordossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilordossantos&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-rho-beige-99.vercel.app/api?username=danilordossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats-rho-beige-99.vercel.app/api/top-langs/?username=danilordossantos&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
